@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "productName": "Elegant Dining Table",
+    "productCategory": "Tables",
+    "productImageName": "one.jpg",
+    "productPrice": "85,000 LKR",
+    "productDescription": "The Elegant Dining Table brings sophistication and practicality to your dining space. Crafted with high-quality materials, its broad surface accommodates family meals and special gatherings. The rich brown finish enhances its timeless appeal, while sturdy legs ensure lasting durability. Perfect for both modern and classic interiors, this table is designed to create unforgettable dining experiences.",
+    "productMaterial": "Solid Teak Wood, Polished Finish, Metal Support",
+    "productColor": "Brown"
+  },
+  {
+    "id": "2",
+    "productName": "Classic Square Table",
+    "productCategory": "Tables",
+    "productImageName": "two.jpg",
+    "productPrice": "28,500 LKR",
+    "productDescription": "The Classic Square Table is a perfect blend of compact design and timeless elegance. Its sleek brown finish complements any interior style, while its sturdy build ensures durability. Ideal for small dining areas, workspaces, or as a decorative accent, this table adds both functionality and style to your living space, making it a versatile addition to any home.",
+    "productMaterial": "High-Density MDF, Water-Resistant Laminate, Steel Legs",
+    "productColor": "Brown"
+  },
+  {
+    "id": "3",
+    "productName": "Modern Round Table",
+    "productCategory": "Tables",
+    "productImageName": "three.jpg",
+    "productPrice": "110,000 LKR",
+    "productDescription": "The Modern Round Table blends contemporary design with timeless elegance, making it a standout centerpiece for any living or dining space. Crafted with premium-quality materials, this table features a smooth, rounded surface that’s perfect for family gatherings, casual meals, or intimate conversations. Its rich brown finish adds warmth and sophistication, complementing a wide range of interior styles.",
+    "productMaterial": "Solid Oak Wood, Tempered Glass Top, Metal Frame",
+    "productColor": "Brown"
+  },
+  {
+    "id": "4",
+    "productName": "Ergonomic School Chair",
+    "productCategory": "Chairs",
+    "productImageName": "four.jpg",
+    "productPrice": "18,500 LKR",
+    "productDescription": "The Ergonomic School Chair is built to provide comfort and support for long study sessions. Its sturdy frame and sleek design are perfect for classroom or home use. The brown finish adds a touch of elegance while ensuring durability. Lightweight and easy to move, this chair is designed to promote healthy posture and learning productivity.",
+    "productMaterial": "Polypropylene Plastic, Reinforced Metal Frame, Cushioned Seat",
+    "productColor": "Brown"
+  },
+  {
+    "id": "5",
+    "productName": "Comfort Dining Chair",
+    "productCategory": "Chairs",
+    "productImageName": "five.jpg",
+    "productPrice": "22,000 LKR",
+    "productDescription": "The Comfort Dining Chair is designed with both elegance and functionality in mind. Its cushioned seat and supportive backrest provide unmatched comfort, perfect for long dinners or gatherings. The classic brown finish enhances its aesthetic appeal, making it an ideal addition to any dining setup. Crafted with high-quality materials for lasting durability and timeless style.",
+    "productMaterial": "Solid Wood Frame, Faux Leather Upholstery, Foam Padding",
+    "productColor": "Brown"
+  },
+  {
+    "id": "6",
+    "productName": "Luxury Wooden Sofa",
+    "productCategory": "Chairs",
+    "productImageName": "six.jpg",
+    "productPrice": "75,000 LKR",
+    "productDescription": "The Luxury Wooden Sofa combines comfort and elegance, designed to elevate your living space. With a robust wooden frame and soft cushioning, it’s perfect for relaxation and social gatherings. Its warm brown finish matches various decor styles, while its sturdy construction ensures long-lasting use. A statement piece that brings both comfort and style to any room.",
+    "productMaterial": "Solid Mahogany Wood, High-Density Foam, Premium Fabric Upholstery",
+    "productColor": "Brown"
+  },
+  {
+    "id": "7",
+    "productName": "Versatile Wooden Stool",
+    "productCategory": "Tables",
+    "productImageName": "seven.jpg",
+    "productPrice": "12,500 LKR",
+    "productDescription": "The Versatile Wooden Stool is a compact yet stylish addition to any setting. Perfect for kitchens, living rooms, or outdoor spaces, its sturdy wooden design ensures reliability and strength. The smooth brown finish adds warmth and character, blending seamlessly with various decor styles. Lightweight and portable, it serves as both functional seating and a decorative accent.",
+    "productMaterial": "Solid Pine Wood, Polished Surface, Non-Slip Base",
+    "productColor": "Brown"
+  }
+]
